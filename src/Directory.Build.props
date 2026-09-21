@@ -13,19 +13,19 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Package metadata">
-    <PackageTags>swallow</PackageTags> <!-- TODO: Fill in information -->
-    <Description></Description> <!-- TODO: Fill in information -->
+    <PackageTags>swallow;dependency-injection;chain-of-responsibility</PackageTags>
+    <Description>A tiny package for an abstract base to inject a chain of responsibility into a DI-container</Description>
 
     <Authors>Philipp Kiener</Authors>
-    <Copyright>2026 Philipp Kiener</Copyright> <!-- TODO: Fill in information -->
-    <PackageProjectUrl>https://github.com/phkiener/Swallow.Template</PackageProjectUrl> <!-- TODO: Fill in information -->
+    <Copyright>2020-2026 Philipp Kiener</Copyright>
+    <PackageProjectUrl>https://github.com/phkiener/Swallow.ChainOfInjection</PackageProjectUrl>
 
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/phkiener/Swallow.Template</RepositoryUrl> <!-- TODO: Fill in information -->
+    <RepositoryUrl>https://github.com/phkiener/Swallow.ChainOfInjection</RepositoryUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
 
