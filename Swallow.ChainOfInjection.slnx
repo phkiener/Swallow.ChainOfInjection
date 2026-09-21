@@ -21,4 +21,8 @@
     <File Path=".github/workflows/build.yaml" />
     <File Path=".github/workflows/publish.yaml" />
   </Folder>
+  <Project Path="src/Swallow.ChainOfInjection.ServiceCollection/Swallow.ChainOfInjection.ServiceCollection.csproj" />
+  <Project Path="src/Swallow.ChainOfInjection.SimpleInjector/Swallow.ChainOfInjection.SimpleInjector.csproj" />
+  <Project Path="src/Swallow.ChainOfInjection/Swallow.ChainOfInjection.csproj" />
+  <Project Path="test/Swallow.ChainOfInjection.Test/Swallow.ChainOfInjection.Test.csproj" />
 </Solution>

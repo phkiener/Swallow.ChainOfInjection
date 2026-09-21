@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
+    <PackageReference Include="SimpleInjector" />
+    <PackageReference Include="TUnit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Swallow.ChainOfInjection.ServiceCollection\Swallow.ChainOfInjection.ServiceCollection.csproj" />
+    <ProjectReference Include="..\..\src\Swallow.ChainOfInjection.SimpleInjector\Swallow.ChainOfInjection.SimpleInjector.csproj" />
+    <ProjectReference Include="..\..\src\Swallow.ChainOfInjection\Swallow.ChainOfInjection.csproj" />
+  </ItemGroup>
+
+</Project>
